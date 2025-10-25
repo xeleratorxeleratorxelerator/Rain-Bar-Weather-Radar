@@ -106,7 +106,7 @@ These permissions are optional and can be denied. You can still use the App by m
 
 If you have questions or concerns about this Privacy Policy, you can contact us at:
 
-Email: [xeleratorxeleratorxelerator.com]
+Email: [xeleratorxeleratorxelerator@gmail.com]
 Developer: Xelerator
 App Name: Rain Bar: Weather & Radar
 
